@@ -1,0 +1,22 @@
+#container div {
+	display: inline-block;
+	background-color: white;
+	height: 60px;
+	width: 60px;
+	margin-bottom: -4px;
+}
+
+#container {
+	margin:100px auto;
+	margin-top: 0;
+	width:960px;
+}
+
+button {
+	display: block;
+	margin: 50px auto;
+}
+
+.black {
+	background-color: black
+}
